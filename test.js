@@ -23,7 +23,7 @@ test('quora.knowsAbout()', async t => {
 	t.is(userKnowsAbout.endorsement1, '95');
 	t.is(userKnowsAbout.knowsAbout2, 'Quora (company)');
 	t.is(userKnowsAbout.answers2, '37');
-	t.is(userKnowsAbout.endorsement2, '268');
+	t.is(userKnowsAbout.endorsement2, '269');
 	t.is(userKnowsAbout.knowsAbout3, 'California Institute of Technology');
 	t.is(userKnowsAbout.answers3, '9');
 	t.is(userKnowsAbout.endorsement3, '48');
