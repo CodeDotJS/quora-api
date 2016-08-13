@@ -1,0 +1,72 @@
+{
+  "name": "quora-api",
+  "version": "1.0.0",
+  "description": "An unofficial API for Quora",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codedotjs/quora-api.git"
+  },
+  "author": "Rishi Giri <rushforlinux@gmail.com> (rishigiri.com)",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "unofficial",
+    "quora",
+    "api",
+    "fetch",
+    "profile-picture",
+    "followers",
+    "following",
+    "public-answers",
+    "questions",
+    "edits",
+    "monthly-views",
+    "total-views",
+    "bio",
+    "full-bio",
+    "posts",
+    "knows-about",
+    "highlights",
+    "about",
+    "answer",
+    "answer-count",
+    "user-answer",
+    "total-blogs",
+    "activities",
+    "asked-questions",
+    "answered-questions",
+    "scrap",
+    "extract",
+    "data",
+    "stats",
+    "informations"
+  ],
+  "dependencies": {
+    "got": "5.6.0",
+    "cheerio": "0.20.0",
+    "pinkie-promise": "2.0.1"
+  },
+  "devDependencies": {
+    "ava": "^0.15.0",
+    "xo": "^0.16.0"
+  },
+  "xo": {
+    "esnext": true
+  },
+  "bugs": {
+    "url": "https://github.com/codedotjs/quora-api/issues"
+  },
+  "homepage": "https://github.com/codedotjs/quora-api#readme",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  }
+}
