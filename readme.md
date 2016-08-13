@@ -6,7 +6,7 @@
 
 > :boom: :book: :boom: An unofficial API for Quora. 
 
-![quora-api](https://travis-ci.org/CodeDotJS/gooder.svg?branch=master)
+[![Build Status](https://travis-ci.org/CodeDotJS/quora-api.svg?branch=master)](https://travis-ci.org/CodeDotJS/quora-api)
 ![code-style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)
 
 ## Install
