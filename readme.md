@@ -9,6 +9,10 @@
 [![Build Status](https://travis-ci.org/CodeDotJS/quora-api.svg?branch=master)](https://travis-ci.org/CodeDotJS/quora-api)
 ![code-style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)
 
+__NOTE :__ Quora changes its UI almost every day. They make changes, they revert it back. This is what they are doing.
+This code worked very well on old structure, but now some of the feature aren't working well. Also, Quora removed few sections
+like `Highlights` and `Views` but this api contains that part which is quite useless at this point of time.
+
 ## Install
 
 ```
