@@ -1,10 +1,10 @@
 <h1 align="center">
 	<br>
-	<img width="350" src="media/quora.png">
+	<img width="350" src="https://raw.githubusercontent.com/CodeDotJS/quora-api/master/media/quora.png">
 	<br>
 </h1>
 
-> :boom: :book: :boom: An unofficial API for Quora. 
+> :boom: :book: :boom: An unofficial API for Quora.
 
 [![Build Status](https://travis-ci.org/CodeDotJS/quora-api.svg?branch=master)](https://travis-ci.org/CodeDotJS/quora-api)
 ![code-style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)
